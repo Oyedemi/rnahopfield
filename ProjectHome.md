@@ -1,0 +1,1 @@
+This program was used to implement an OCR using Hopfield networks. Even though the OCR was deemed inadequate for its task, it continued as an educational/scientifical tool. At the moment, it implements two Hopfield networks: one that learns through Hebbian learning and one that learns through pseudoinverse.
